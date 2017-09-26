@@ -1,3 +1,3 @@
 # MyFirstRepo
 excercise-homework
-Making a conflict.
+Making a conflict!
