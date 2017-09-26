@@ -1,3 +1,3 @@
 # MyFirstRepo
 excercise-homework
-Making a conflict!
+This is a third option.
